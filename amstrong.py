@@ -8,4 +8,4 @@ while t>0:
 if n==summ:
     print("yes")
 else:
-    print("not")
+    print("no")
