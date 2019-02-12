@@ -5,7 +5,7 @@ for i in range(2,n-1):
         flag=1
         break
 if flag==0:
-    print("prime")
+    print("yes")
 else:
     print("no")
     
